@@ -14,3 +14,5 @@ EXPOSE 80
 
 # execute required command
 CMD ["nginx", "-g", "daemon off;"]
+
+# BUILD THIS IMAGE 
